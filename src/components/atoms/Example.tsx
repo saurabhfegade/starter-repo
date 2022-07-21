@@ -1,7 +1,7 @@
 import React from "react";
 
 const ExampleAtom = () => {
-  return <div>ExampleAtom</div>;
+  return <div className="font-bold">ExampleAtom</div>;
 };
 
 export default ExampleAtom;
