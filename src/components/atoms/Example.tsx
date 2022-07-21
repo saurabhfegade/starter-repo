@@ -1,7 +1,7 @@
 import React from "react";
 
-const Example = () => {
-  return <div>Example</div>;
+const ExampleAtom = () => {
+  return <div>ExampleAtom</div>;
 };
 
-export default Example;
+export default ExampleAtom;

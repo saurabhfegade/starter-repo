@@ -1,11 +1,11 @@
 import type { NextPage } from "next";
+import ExampleAtom from "../components/atoms/Example";
 
 const Home: NextPage = () => {
   return (
     <>
-      <div>
-        <h2>Frontend Starter Repo</h2>
-      </div>
+      <h2>Frontend Starter Repo</h2>
+      <ExampleAtom />
     </>
   );
 };
