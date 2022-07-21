@@ -15,6 +15,8 @@
 <!-- Checklist for PR author(s). -->
 
 - [ ] Does the Readme need to be updated?
+- [ ] Included the correct [type prefix](https://github.com/commitizen/conventional-commit-types/blob/v3.0.0/index.json) in the PR title
+- [ ] Added `!` to the type prefix if API or client breaking change
 
 ## 5. Limitations (optional)
 
