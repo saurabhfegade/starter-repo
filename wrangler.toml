@@ -4,7 +4,7 @@ zone_id = '6304918b0989e59de2f10ab7af92840a'
 usage_model = ''
 compatibility_flags = []
 workers_dev = true
-site = {bucket = "./build",entry-point = "workers-site"}
+site = {bucket = "./next",entry-point = "workers-site"}
 compatibility_date = "2022-7-22"
 
 [env.staging]
