@@ -1,11 +1,11 @@
-name = "pstake-webapp"
+name = "persistence-frontend-starter-repo"
 type = "webpack"
-zone_id = '6304918b0989e59de2f10ab7af92840a'
+zone_id = '000fde296cba847a78e918414382ba7a'
 usage_model = ''
 compatibility_flags = []
 workers_dev = true
 site = {bucket = "./.next",entry-point = "workers-site"}
-compatibility_date = "2022-06-01"
+compatibility_date = "2022-06-06"
 
 [env.staging]
 routes = ['https://test-repo.persistence.one/*']
