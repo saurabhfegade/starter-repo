@@ -8,6 +8,6 @@ site = {bucket = "./.next",entry-point = "workers-site"}
 compatibility_date = "2022-06-01"
 
 [env.staging]
-routes = ['https://staging.frontend-starter-repo/*']
+routes = ['https://staging.frontend-starter-repo.pstake.finance/*']
 
 
