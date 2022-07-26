@@ -1,10 +1,8 @@
 name = "persistence-frontend-starter-repo"
-type = "webpack"
-zone_id = '000fde296cba847a78e918414382ba7a'
-usage_model = ''
 compatibility_flags = []
 workers_dev = true
-site = {bucket = "./out",entry-point = "workers-site"}
+site = {bucket = "./out"}
+main = "workers-site/index.js"
 compatibility_date = "2022-06-06"
 
 [env.staging]
