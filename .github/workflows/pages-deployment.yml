@@ -1,9 +1,10 @@
 on:  
-  pull_request:
-    branches:
-      - main
+  pull_request_review:
+    branches: main
+    types: [submitted]
 jobs:
   deploy:
+    if: github.event.review.state == 'approved'
     runs-on: ubuntu-latest
     permissions:
       contents: read
