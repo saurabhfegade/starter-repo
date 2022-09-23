@@ -1,4 +1,4 @@
-# Frontend Starter Repo Template
+# Frontend Starter Repo Template Test
 
 Use this template to kickstart any frontend repo.
 
